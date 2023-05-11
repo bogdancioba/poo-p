@@ -1,0 +1,4 @@
+﻿  UserManager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(703,5): error MSB6006: "CL.exe" exited with code 2.
+C:\Users\cioba\Desktop\ProiectPoo\UserManager.cpp(12): error C4716: 'UserManager::createUser': must return a value
+C:\Users\cioba\Desktop\ProiectPoo\UserManager.cpp(7): error C4716: 'UserManager::authenticateUser': must return a value
